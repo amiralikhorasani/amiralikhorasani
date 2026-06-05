@@ -51,3 +51,11 @@ Frontend Developer in Progress • React Learner • CS Student
 ---
 
 > Building real things, one commit at a time. ✨
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/amiralikhorasani/amiralikhorasani/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>

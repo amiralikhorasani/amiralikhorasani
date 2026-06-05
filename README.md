@@ -1,40 +1,54 @@
+<h1 align="center">Hi, I'm Amirali 👋</h1>
 
-### Hi, I'm Amirali 👋
+<h3 align="center">🎨 Graphic Designer → 💻 Frontend Developer</h3>
 
-Frontend Developer in progress | React & Tailwind | CS Student | Background in Graphic Design | Building real things, one commit at a time.
-
----
-
-**About me**
-
-Frontend developer with a background in graphic design — I think in pixels and write in JSX.
-Currently building with React, Tailwind, and Redux.
-CS undergraduate on a mission to ship real products, one commit at a time.
+<p align="center">
+Frontend Developer in Progress • React Learner • CS Student
+</p>
 
 ---
 
-**Tech stack**
+## 👨‍💻 About Me
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
+🎨 Started with Graphic Design and developed a strong eye for UI and visual details.
 
----
+⚛️ Currently learning React and modern frontend development.
 
-**Journey**
+📚 Computer Science student passionate about web technologies.
 
-- ✅ HTML, CSS, JavaScript — foundations complete
-- ✅ Bootstrap — experienced
-- ✅ Tailwind CSS — crash course complete
-- 🔵 React + Redux — currently building Fast React Pizza
-- ⬜ Next.js — up next
-- ⬜ TypeScript — on the roadmap
+🚀 Building real projects and improving every day.
 
 ---
 
-*"Building real things, one commit at a time."*
-  
+## 🛠️ Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,redux,git,github,vscode" />
+</p>
+
+---
+
+## 🌱 Currently Exploring
+
+* ⚛️ React
+* 🔄 Redux
+* 🏗️ Frontend Architecture
+* 🎨 Responsive UI Design
+
+---
+
+## 🎯 Next Goals
+
+* TypeScript
+* Next.js
+* Full-Stack Development
+
+---
+
+## 📊 GitHub Stats
+
+![Amirali's GitHub stats](https://github-readme-stats.vercel.app/api?username=amiralikhorasani\&show_icons=true)
+
+---
+
+> Building real things, one commit at a time. ✨

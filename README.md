@@ -33,14 +33,6 @@ Frontend Developer in Progress • React Learner • CS Student
 
 ---
 
-## 📚 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiralikhorasani&layout=compact" />
-</p>
-
----
-
 ## 🌱 Currently Exploring
 
 * ⚛️ React
@@ -59,11 +51,3 @@ Frontend Developer in Progress • React Learner • CS Student
 ---
 
 > Building real things, one commit at a time. ✨
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=amiralikhorasani" />
-</p>

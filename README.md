@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&section=header" />  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer+in+Progress;React+Learner;Computer+Science+Student;Graphic+Designer+Turned+Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&section=header" />  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer+in+Progress;React+Learner;Computer+Science+Student;Graphic+Designer+Turned+Developer" />
 </p>
 
 <h1 align="center">Hi, I'm Amirali 👋</h1>

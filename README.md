@@ -1,3 +1,8 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Amirali&fontAlign=50&fontAlignY=40&animation=fadeIn&color=gradient" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer+in+Progress;React+Learner;Computer+Science+Student;Graphic+Designer+Turned+Developer" />
+</p>
+
 <h1 align="center">Hi, I'm Amirali 👋</h1>
 
 <h3 align="center">🎨 Graphic Designer → 💻 Frontend Developer</h3>
@@ -28,6 +33,14 @@ Frontend Developer in Progress • React Learner • CS Student
 
 ---
 
+## 📚 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiralikhorasani&layout=compact" />
+</p>
+
+---
+
 ## 🌱 Currently Exploring
 
 * ⚛️ React
@@ -45,10 +58,12 @@ Frontend Developer in Progress • React Learner • CS Student
 
 ---
 
-## 📊 GitHub Stats
-
-![Amirali's GitHub stats](https://github-readme-stats.vercel.app/api?username=amiralikhorasani\&show_icons=true)
+> Building real things, one commit at a time. ✨
 
 ---
 
-> Building real things, one commit at a time. ✨
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amiralikhorasani" />
+</p>
